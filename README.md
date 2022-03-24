@@ -4,7 +4,7 @@ Communication is defined as the act of sharing or exchanging information, ideas 
 
 
 To establish communication between two people, both of them are required to have knowledge and understanding of a common language. But in the case of deaf and dumb people, the means of communication are different.
-![image](https://user-images.githubusercontent.com/84015209/159914737-fc308cc4-cd2f-4e77-af38-d18c63f5cf3f.png)
+![](https://github.com/riteshjha1/Gif/blob/main/we-need-to-communicate-it-in-a-different-way-try-again.gif)
 
 **Deaf is the inability to hear and dumb is the inability to speak. They communicate using sign language among themselves and with normal people but normal people do not take seriously the importance of sign language.**<br>
 
@@ -18,3 +18,5 @@ A model can be trained to recognize different gestures of sign language and tran
 
 Our system achieves a good level of **accuracy of 93% even with a limited size dataset of just 200 images.**
 ----------------------------------------------------------------------------------------------------------------
+
+![](https://github.com/riteshjha1/Gif/blob/main/0cfccf814c72978ec8dc888dc5db18a1.gif)
