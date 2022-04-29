@@ -16,7 +16,7 @@ Not everyone possesses the knowledge and understanding of sign language which ma
 A model can be trained to recognize different gestures of sign language and translate them into English. This will help a lot of people in communicating and conversing with deaf and dumb people.<br> 
 ***The existing Sing Language Recognition systems are designed using machine learning algorithms with single and double-handed gestures but they are not in real-time.*** We propose a method to create an Sign Language dataset using a webcam and then using transfer learning, train a TensorFlow model to create a real-time Sign Language Recognition system.<br>
 
-Our system achieves a good level of **accuracy of 93% even with a limited size dataset of just 200 images.**
+Our system achieves a good level of **accuracy of 90% even with a limited size dataset of just 200 images.**
 ----------------------------------------------------------------------------------------------------------------
 
 ![](https://github.com/riteshjha1/Gif/blob/main/0cfccf814c72978ec8dc888dc5db18a1.gif)
